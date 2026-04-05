@@ -1,0 +1,12 @@
+-- create database dbclass;
+-- use  dbclass;
+-- CREATE TABLE Student (
+--     id INT PRIMARY KEY AUTO_INCREMENT,
+--     name VARCHAR(20) NOT NULL,
+--     age INT,
+--     email VARCHAR(100),
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+-- );
+-- INSERT INTO students (name, age, email)
+-- VALUES ('Rahul', 20, 'rahul@email.com');
+-- SELECT * FROM students;
